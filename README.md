@@ -1,14 +1,14 @@
-# Quiz\n
-Java testing with different classes!\n
-\n
-How it works:\n
--Create school object\n
--School object creates a bunch of student objects\n
--Create a quiz object\n
--Randomly set quiz difficulty\n
--Students have a 'TakeQuiz' function\n
--The harder the quiz the less likely the student will pass\n
--Display everything in the console with colors\n
-\n
-NOTE:\n
--The console uses ANSI colors so it might not work in some command lines!\n
+# Quiz<br>
+Java testing with different classes!<br>
+<br>
+How it works:<br>
+-Create school object<br>
+-School object creates a bunch of student objects<br>
+-Create a quiz object<br>
+-Randomly set quiz difficulty<br>
+-Students have a 'TakeQuiz' function<br>
+-The harder the quiz the less likely the student will pass<br>
+-Display everything in the console with colors<br>
+<br>
+NOTE:<br>
+-The console uses ANSI colors so it might not work in some command lines!<br>
